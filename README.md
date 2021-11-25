@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DevSamuelAguiar/eb54ca2146f36022935b0ffe485d3428/raw/61927f64a3c104eec25788d6c2a040ba9ee2b676/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DevSamuelAguiar/5f2c2d2f98c381d5a623800d697f3d41/raw/e890d34a23c82f5fb26099f58fdfb5db5b6f2582/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Samuel Aguiar</h1>
 
