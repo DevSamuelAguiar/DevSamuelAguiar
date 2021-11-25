@@ -7,9 +7,9 @@
 
 - 🔥 Academic in Information Systems at IFNMG, my focus is to be a fullstack software developer.
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+- 💬 Ask me about **JavaScript, HTML, CSS**.
 
-- ⚡ Fun fact **melodica 🎹**
+- ⚡ Fun fact **melodica 🎹**.
 
 <br><br>
 
