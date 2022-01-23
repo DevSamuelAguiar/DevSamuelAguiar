@@ -26,6 +26,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=devsamuelaguiar&show_icons=true&theme=vision-friendly-dark" />
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelaguiar&layout=compact&theme=vision-friendly-dark" />
