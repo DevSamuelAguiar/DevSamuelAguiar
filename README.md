@@ -8,7 +8,7 @@ Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/
 
 <br>
 
-Tenho em mente ser um “Dev em T”, este tipo de profissional tem um conhecimento profundo (especialista) em uma determinada área, e ainda possui conhecimento generalista em várias outras áreas. Através da minha profissão, pretendo impactar de maneira positiva o máximo de pessoas possível. <br><br>
+Tenho em mente ser um “Dev em T”, este tipo de profissional tem um conhecimento profundo (especialista) em uma determinada área, e ainda possui conhecimento generalista em várias outras áreas. Através da minha profissão, pretendo impactar de maneira positiva o máximo de pessoas possível. <br><br><br>
 
 
 
