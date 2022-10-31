@@ -26,8 +26,8 @@ Tenho em mente ser um “Dev em T”, este tipo de profissional tem um conhecime
 ## ⚙️ &nbsp;GitHub Analytics
 <div>
   <p >
-    <img align="left" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelaguiar&layout=compact&theme=github_dark" />
-    <img align="left" width="480em" src="https://github-readme-stats.vercel.app/api?username=devsamuelaguiar&show_icons=true&theme=github_dark" />
+    <img align="left" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsamuelaguiar&layout=compact&theme=github_dark" />
+    <img align="left" width="460em" src="https://github-readme-stats.vercel.app/api?username=devsamuelaguiar&show_icons=true&theme=github_dark" />
   </p>  
 <div/> 
 
