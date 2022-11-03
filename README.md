@@ -31,6 +31,7 @@ Tenho em mente ser um “Dev em T”, este tipo de profissional tem um conhecime
   </p>  
 <div/> 
 
+ ![Snake animation](https://github.com/DevSamuelAguiar/DevSamuelAguiar/blob/output/github-contribution-grid-snake.svg)
  
 
 
