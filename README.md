@@ -1,5 +1,5 @@
-![I am GitHub Readme Generator's creator](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ffa76e7-cb40-4258-b9f3-8f62aa58c836/Banner_GitHub_-_Verso_03_-_%28Verso_Opcional%29_-_Copia.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221030%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221030T144035Z&X-Amz-Expires=86400&X-Amz-Signature=d62207a8dd9650ce220624bdceb4c84b04f3364ad3d096cff57662b2c4661d15&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Banner%2520GitHub%2520-%2520Vers%25C3%25A3o%252003%2520-%2520%28Vers%25C3%25A3o%2520Opcional%29%2520-%2520Copia.png%22&x-id=GetObject)
 
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/DevSamuelAguiar/DevSamuelAguiar/main/Banner%20GitHub%20-%20Vers%C3%A3o%2003%20-%20(Vers%C3%A3o%20Opcional)%20-%20Copia.png)z
 
 <h1 align="left">Samuel Aguiar  <img align="rithg"src="https://komarev.com/ghpvc/?username=devsamuelaguiar&color=orange" alt="Profile views" /></h1>
 
