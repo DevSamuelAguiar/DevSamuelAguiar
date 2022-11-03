@@ -1,5 +1,5 @@
 
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/DevSamuelAguiar/DevSamuelAguiar/main/Banner%20GitHub%20-%20Vers%C3%A3o%2003%20-%20(Vers%C3%A3o%20Opcional)%20-%20Copia.png)z
+![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/DevSamuelAguiar/DevSamuelAguiar/main/Banner%20GitHub%20-%20Vers%C3%A3o%2003%20-%20(Vers%C3%A3o%20Opcional)%20-%20Copia.png)
 
 <h1 align="left">Samuel Aguiar  <img align="rithg"src="https://komarev.com/ghpvc/?username=devsamuelaguiar&color=orange" alt="Profile views" /></h1>
 
